@@ -1,1 +1,3 @@
-# target_box
+# target-box
+
+Madeni para kumbarası.
