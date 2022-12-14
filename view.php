@@ -74,8 +74,8 @@ $UserID = 1;
 </head>
 
 <body>
-    <div class="text-center">
-        <img src="img/bg.webp" alt="logo" class="my-5">
+    <div class="text-center col-md-4 m-auto">
+        <img src="img/bg.webp" alt="logo" class="my-5" style="width: 70%;">
     </div>
 
 <?php

@@ -22,7 +22,7 @@ if (isset($UserID) && $UserID > 0) {
     </nav>
     <section class="row mt-5">
         <div class="col-md-6 m-auto text-center">
-            <img src="img/bg.webp" alt="logo" class="my-5">
+            <img src="img/bg.webp" alt="logo" class="my-5" style="width: 70%;">
             <h1 class="mt-3 mb-5"><?= $UserName ?></h1>
             <form action="" class="w-75 m-auto" id="passwordChange" onsubmit="return false">
                 <h5 class="title-style text-center mt-3 mb-4">Parola Değiştir</h5>
