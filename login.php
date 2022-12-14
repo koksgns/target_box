@@ -37,7 +37,7 @@ if (isset($UserID) && $UserID >0) {
 ?>
     <section class="row mt-5">
         <div class="col-md-6 m-auto text-center">
-            <img src="img/bg.webp" alt="logo" class="my-5">
+            <img src="img/bg.webp" alt="logo" class="my-5" style="width: 90%;">
             <h4 class="title-style text-center mt-3 mb-4">Giriş Yap</h4>
             <?php if (isset($msg)) : ?>
                 <div class="alert alert-danger w-75 m-auto my-5"><?= $msg ?></div>
