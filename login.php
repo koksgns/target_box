@@ -35,7 +35,7 @@ if (isset($UserID) && $UserID >0) {
         }
     }
 ?>
-    <section class="row mt-5">
+    <section class="row my-5" style="margin-left:0px; margin-right:0px;">
         <div class="col-md-6 m-auto text-center">
             <img src="img/bg.webp" alt="logo" class="my-5" style="width: 90%;">
             <h4 class="title-style text-center mt-3 mb-4">Giriş Yap</h4>
